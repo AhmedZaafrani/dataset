@@ -1,0 +1,202 @@
+[
+  {
+    "State": "AL",
+    "Unemployment": 7.1
+  },
+  {
+    "State": "AK",
+    "Unemployment": 6.8
+  },
+  {
+    "State": "AZ",
+    "Unemployment": 8.1
+  },
+  {
+    "State": "AR",
+    "Unemployment": 7.2
+  },
+  {
+    "State": "CA",
+    "Unemployment": 10.1
+  },
+  {
+    "State": "CO",
+    "Unemployment": 7.7
+  },
+  {
+    "State": "CT",
+    "Unemployment": 8.4
+  },
+  {
+    "State": "DE",
+    "Unemployment": 7.1
+  },
+  {
+    "State": "FL",
+    "Unemployment": 8.2
+  },
+  {
+    "State": "GA",
+    "Unemployment": 8.8
+  },
+  {
+    "State": "HI",
+    "Unemployment": 5.4
+  },
+  {
+    "State": "ID",
+    "Unemployment": 6.6
+  },
+  {
+    "State": "IL",
+    "Unemployment": 8.8
+  },
+  {
+    "State": "IN",
+    "Unemployment": 8.4
+  },
+  {
+    "State": "IA",
+    "Unemployment": 5.1
+  },
+  {
+    "State": "KS",
+    "Unemployment": 5.6
+  },
+  {
+    "State": "KY",
+    "Unemployment": 8.1
+  },
+  {
+    "State": "LA",
+    "Unemployment": 5.9
+  },
+  {
+    "State": "ME",
+    "Unemployment": 7.2
+  },
+  {
+    "State": "MD",
+    "Unemployment": 6.8
+  },
+  {
+    "State": "MA",
+    "Unemployment": 6.7
+  },
+  {
+    "State": "MI",
+    "Unemployment": 9.1
+  },
+  {
+    "State": "MN",
+    "Unemployment": 5.6
+  },
+  {
+    "State": "MS",
+    "Unemployment": 9.1
+  },
+  {
+    "State": "MO",
+    "Unemployment": 6.7
+  },
+  {
+    "State": "MT",
+    "Unemployment": 5.8
+  },
+  {
+    "State": "NE",
+    "Unemployment": 3.9
+  },
+  {
+    "State": "NV",
+    "Unemployment": 10.3
+  },
+  {
+    "State": "NH",
+    "Unemployment": 5.7
+  },
+  {
+    "State": "NJ",
+    "Unemployment": 9.6
+  },
+  {
+    "State": "NM",
+    "Unemployment": 6.8
+  },
+  {
+    "State": "NY",
+    "Unemployment": 8.4
+  },
+  {
+    "State": "NC",
+    "Unemployment": 9.4
+  },
+  {
+    "State": "ND",
+    "Unemployment": 3.2
+  },
+  {
+    "State": "OH",
+    "Unemployment": 6.9
+  },
+  {
+    "State": "OK",
+    "Unemployment": 5.2
+  },
+  {
+    "State": "OR",
+    "Unemployment": 8.5
+  },
+  {
+    "State": "PA",
+    "Unemployment": 8
+  },
+  {
+    "State": "RI",
+    "Unemployment": 10.1
+  },
+  {
+    "State": "SC",
+    "Unemployment": 8.8
+  },
+  {
+    "State": "SD",
+    "Unemployment": 4.4
+  },
+  {
+    "State": "TN",
+    "Unemployment": 7.8
+  },
+  {
+    "State": "TX",
+    "Unemployment": 6.4
+  },
+  {
+    "State": "UT",
+    "Unemployment": 5.5
+  },
+  {
+    "State": "VT",
+    "Unemployment": 5
+  },
+  {
+    "State": "VA",
+    "Unemployment": 5.8
+  },
+  {
+    "State": "WA",
+    "Unemployment": 7.8
+  },
+  {
+    "State": "WV",
+    "Unemployment": 7.5
+  },
+  {
+    "State": "WI",
+    "Unemployment": 6.8
+  },
+  {
+    "State": "WY",
+    "Unemployment": 5.1
+  }
+]
