@@ -25,9 +25,11 @@ Ordinamento degli stati in base al rank di popolazione.
   d) Grafici
 Grafico a Barre:
 Confronta le popolazioni di 4 stati scelti dall'utente.
+
 Grafico a Torta:
 Visualizza la percentuale della popolazione totale di 4 stati.
 Mostra la distribuzione della disoccupazione in 4 stati.
+
 ---
 ###Librerie Utilizzate
 a) requests
