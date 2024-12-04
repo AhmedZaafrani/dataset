@@ -9,17 +9,20 @@ Confronti tra stati in termini di popolazione e disoccupazione.
 Grafici per visualizzare in modo chiaro i dati estratti.
 ---
 ### Funzionalita
-**a) Disegno della Mappa dello Stato
+  a) Disegno della Mappa dello Stato
 L'utente può inserire il nome di uno stato e visualizzare la mappa del suo perimetro geografico.
 Viene utilizzato il dataset us_states.json per rappresentare le geometrie con folium.GeoJson.
-b) Mappa della Disoccupazione
+
+  b) Mappa della Disoccupazione
 Viene creata una mappa coropletica che mostra i tassi di disoccupazione per stato con un gradiente di colori.
 Utilizzo del dataset Disoccupazione.json per aggiungere i valori di disoccupazione alla mappa interattiva.
-c) Informazioni sulla Popolazione
+
+  c) Informazioni sulla Popolazione
 Calcolo della popolazione totale di uno stato inserito dall'utente.
 Confronto tra due stati per determinare quale ha la popolazione maggiore.
 Ordinamento degli stati in base al rank di popolazione.
-d) Grafici
+
+  d) Grafici
 Grafico a Barre:
 Confronta le popolazioni di 4 stati scelti dall'utente.
 Grafico a Torta:
