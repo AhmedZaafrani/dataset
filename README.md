@@ -7,6 +7,7 @@ La popolazione per stato basata sui dati del censimento del 2020.
 Il tasso di disoccupazione per stato.
 Confronti tra stati in termini di popolazione e disoccupazione.
 Grafici per visualizzare in modo chiaro i dati estratti.
+
 ---
 ### Funzionalita
   a) Disegno della Mappa dello Stato
@@ -31,7 +32,7 @@ Visualizza la percentuale della popolazione totale di 4 stati.
 Mostra la distribuzione della disoccupazione in 4 stati.
 
 ---
-###Librerie Utilizzate
+### Librerie Utilizzate
 a) requests
 Per scaricare dataset da URL remoti.
 b) json
